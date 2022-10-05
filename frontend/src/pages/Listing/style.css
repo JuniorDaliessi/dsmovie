@@ -1,0 +1,10 @@
+
+.transition-dsmovie-card{
+    
+    transition: transform 0.5s;
+}
+
+.transition-dsmovie-card:hover{
+
+    transform: scale(1.2);
+}
